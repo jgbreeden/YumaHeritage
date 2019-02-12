@@ -1,0 +1,4 @@
+#Mon Dec 17 13:06:52 MST 2018
+base.0=C\:\\Users\\jbreeden\\Desktop\\StedyCoding2\\Projects\\AndrewSYumaApp\\YumaHeritage\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
